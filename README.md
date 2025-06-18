@@ -1,3 +1,1 @@
-git add .
-git commit -m "Your message"
-git push origin main
+Added project goal description
